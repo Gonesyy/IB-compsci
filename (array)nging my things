@@ -8,20 +8,6 @@ import java.util.Scanner;
 public class Main {
 
 
-    public static void main(String[] args) {
-
-
-        Scanner input = new Scanner(System.in);
-        System.out.println("Input the grades for each of your subjects ");
-        System.out.println("Spanish :");
-        int spanish = input.nextInt();
-        System.out.println("English :");
-        int english = input.nextInt();
-        System.out.println("Computer Science :");
-        int compsci = input.nextInt();
-        System.out.println("Film :");
-        int film = input.nextInt();
-        System.out.println("Economics :");
         int economics = input.nextInt();
         System.out.println("Math :");
         int math = input.nextInt();
